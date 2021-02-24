@@ -1,0 +1,1 @@
+# Various exercises solved in Python 3.6, for the Algorithm Design course for the Computer Science degree at Sapienza University, submitted by Prof. Angelo Monti (2nd channel) and solved by him or me (in the case of past exams exercises)
